@@ -484,6 +484,7 @@ footer {
     padding: 2rem 4rem;
     min-height: 80px;
     margin-top: 2rem;
+    margin-left: 2rem;
     
 }
 
@@ -519,5 +520,5 @@ footer p {
 
 footer p span {
     color: var(--color-pink);
-    font-weight: 1000;
+    font-weight: 800;
 }
