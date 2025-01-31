@@ -501,6 +501,7 @@ footer {
     width: 30px;
     height: 30px;
     justify-content: center;
+    margin-right: 100px;
 }
 
 .social-links img {
@@ -509,9 +510,6 @@ footer {
     opacity: 3;
     transition: opacity 0.3s ease;
 }
-
-
-
 footer p {
     font-size: 1.2rem;
     color: #000;
