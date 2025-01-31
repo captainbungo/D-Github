@@ -489,8 +489,8 @@ footer {
 .social-links {
     display: flex;
     gap: 2rem;
-    width: 120px;
-    height: 100px;
+    width: 220px;
+    height: 200px;
     align-items: center;
 }
 
